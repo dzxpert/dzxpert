@@ -9,7 +9,7 @@
   <br>
   <div align="center" style="margin-top: 20px;">
     <img
-      src="blob:https://www.pinterest.com/29d7d895-ccfc-4076-97e1-f258be156607"
+      src="https://lh6.googleusercontent.com/proxy/Ejm3Jl1ONyeqwzqyPBwjsGmAZLwJIchDVJsyARrlVxfA9pixbr2rcNTLRrDvvGWnrdSgU0lkRxhMO5C4-pdRFNI5tEumIIwCsIcd"
       width="600"
       alt="degen gif"
     />
