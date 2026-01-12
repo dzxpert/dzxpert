@@ -1,1 +1,1 @@
-![banner](https://github.com/user-attachments/assets/09a3c47f-fa56-42f5-b50a-b25d29922de5)
+![banner](https://github.com/19h/chernobog/raw/master/hero.png)
