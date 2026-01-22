@@ -1,1 +1,1 @@
-![banner](https://github.com/19h/chernobog/raw/master/hero.png)
+![banner](https://github.com/zippyweb3/zippyweb3/raw/main/banner.jpg)
